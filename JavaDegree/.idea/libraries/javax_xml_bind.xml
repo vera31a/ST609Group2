@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="javax.xml.bind">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/javax.xml.bind.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/bcprov-ext-jdk15to18-166.jar!/" />
+      <root url="file://$USER_HOME$/Desktop/itext5-5.5.12" />
+      <root url="file://$USER_HOME$/Desktop/commons-codec-1.15" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/Desktop/commons-codec-1.15/apidocs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Desktop/itext5-5.5.12" />
+      <root url="file://$USER_HOME$/Desktop/commons-codec-1.15" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Desktop/commons-codec-1.15" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/itext5-5.5.12" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/commons-codec-1.15" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/itext5-5.5.12" recursive="false" type="SOURCES" />
+  </library>
+</component>
